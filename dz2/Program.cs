@@ -1,4 +1,9 @@
-﻿int Sum(int number)
+﻿//                         Задача 27: Напишите программу, которая принимает на вход число и выдаёт сумму цифр в числе.
+
+
+
+
+int Sum(int number)
 {
 int result = 0;
 while (number >= 1)
